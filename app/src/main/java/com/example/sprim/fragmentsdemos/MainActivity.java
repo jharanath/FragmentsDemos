@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //Look tyhis is the layout file i am looking
         setContentView(R.layout.activity_main);
 
     }
